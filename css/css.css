@@ -1,0 +1,121 @@
+
+.inputLogin {
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+.inputLogin .input {
+    margin-bottom: 20px;
+}
+
+.inputLogin .input label {
+    display: block;
+    margin-bottom: 5px;
+    
+}
+
+.inputLogin .input input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+.inputLogin .input .btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #48f513;
+    color: rgb(15, 11, 11);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.inputLogin .input .btn:hover {
+    background-color: #a85027;
+}
+
+
+#mainlogin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .vs-divider {
+    font-size: 2em;
+    font-weight: bold;
+    padding: 0 20px;
+    color: #fff;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .entrenador {
+    border: 1px solid #333;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #383a3b;
+    color: #fff;
+  }
+
+  .nombre-entrenador {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .pokemons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .pokemon {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    width: 120px;
+    text-align: center;
+  }
+
+  .pokemon img {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto 10px;
+  }
+
+  .pokemon.Normal {
+    border-color: #9e9e9e;
+  }
+
+  .pokemon.Agua {
+    border-color: #2196f3;
+  }
+
+  .pokemon.Fuego {
+    border-color: #f44336;
+  }
+
+  .pokemon.Electrico {
+    border-color: #ffeb3b;
+  }
+
+  .pokemon.Planta {
+    border-color: #8bc34a;
+  }
+
+  .pokemon.Volador {
+    border-color: #4caf50;
+  }
+  

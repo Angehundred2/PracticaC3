@@ -1,0 +1,198 @@
+[
+
+    {
+  
+      "entrenador": "Julio Paraguya",
+  
+      "pokemons": [
+  
+        {
+  
+          "nombre": "Minccino",
+  
+          "tipo": "Normal",
+  
+          "foto": "img/imagen2.webp"
+  
+        },
+  
+        {
+  
+          "nombre": "Squirtle",
+  
+          "tipo": "Agua",
+  
+          "foto": "img/imagen1.png"
+  
+          
+        },
+        {
+  
+            "nombre": "Meowth",
+    
+            "tipo": "Normal",
+    
+            "foto": "img/imagen3.webp"
+    
+          },
+          {
+  
+            "nombre": "Fearow",
+    
+            "tipo": "Volador",
+    
+            "foto": "img/imagen7.webp"
+    
+          }
+  
+      ]
+  
+    },
+  
+    {
+  
+      "entrenador": "Alan Fierro",
+  
+      "pokemons": [
+  
+        {
+  
+          "nombre": "Charizar",
+  
+          "tipo": "fuego",
+  
+          "foto": "img/imagen5.webp"
+  
+        },
+  
+        {
+  
+          "nombre": "Pikachu",
+  
+          "tipo": "electrico",
+  
+          "foto": "img/imagen6.png"
+  
+        },
+        {
+  
+            "nombre": "Seel",
+    
+            "tipo": "Agua",
+    
+            "foto": "img/imagen4.webp"
+    
+          },
+          {
+  
+            "nombre": "Vileplume",
+    
+            "tipo": "Planta",
+    
+            "foto": "img/imagen8.webp"
+    
+          }
+  
+      ]
+  
+    },
+    {
+  
+        "entrenador": "Agustin Ullon",
+    
+        "pokemons": [
+    
+          {
+    
+            "nombre": "Vulpix",
+    
+            "tipo": "fuego",
+    
+            "foto": "img/imagen9.webp"
+    
+          },
+    
+          {
+    
+            "nombre": "Wigglytuff",
+    
+            "tipo": "Normal",
+    
+            "foto": "img/imagen10.webp"
+    
+          },
+          {
+    
+              "nombre": "Persian",
+      
+              "tipo": "normal",
+      
+              "foto": "img/imagen11.webp"
+      
+            },
+            {
+    
+              "nombre": "Magneton",
+      
+              "tipo": "electrico",
+      
+              "foto": "img/imagen12.webp"
+      
+            }
+    
+        ]
+    
+      },
+      {
+  
+        "entrenador": "Franchesco De la rosa",
+    
+        "pokemons": [
+    
+          {
+    
+            "nombre": "Dewgong",
+    
+            "tipo": "agua",
+    
+            "foto": "img/imagen13.webp"
+    
+          },
+    
+          {
+    
+            "nombre": "Snorlax",
+    
+            "tipo": "Normal",
+    
+            "foto": "img/imagen14.webp"
+    
+          },
+          {
+    
+              "nombre": "Flareon",
+      
+              "tipo": "fuego",
+      
+              "foto": "img/imagen15.webp"
+      
+            },
+            {
+    
+              "nombre": "Kabuto",
+      
+              "tipo": "roca",
+      
+              "foto": "img/imagen16.webp"
+      
+            }
+    
+        ]
+    
+      }
+  
+  ]
+  
+  
+  
+  
